@@ -1,0 +1,14 @@
+Manifest-Version: 1.0
+Bundle-ManifestVersion: 2
+Bundle-Name: JME3_Test
+Bundle-SymbolicName: jME3_Test
+Bundle-Version: 1.0.0.qualifier
+Bundle-Activator: jme3_test.Activator
+Bundle-RequiredExecutionEnvironment: JavaSE-1.6
+Bundle-ActivationPolicy: lazy
+Import-Package: com.jme3.app,
+ com.jme3.material,
+ com.jme3.math,
+ com.jme3.scene,
+ com.jme3.scene.shape,
+ org.osgi.framework
